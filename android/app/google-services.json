@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "96091168311",
+    "firebase_url": "https://futterdemo-84bd3-default-rtdb.firebaseio.com",
+    "project_id": "futterdemo-84bd3",
+    "storage_bucket": "futterdemo-84bd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96091168311:android:1a2a3a46163a678452a9b2",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfRWAghH1KmNxxBVrL_Mw2qXNtHEDZmPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
